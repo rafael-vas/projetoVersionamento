@@ -1,13 +1,16 @@
 Fluxo de trabalho local
-	- Trabalhar no código -
-		> git add .
-		> git commit -m "(texto/mensagem/descrição do commit)"
-		> git log  -> mostrar os commit's existentes (versões) no repositório
-		> git status -> mostra o status do arquivo (se foi alterado)
+- Trabalhar no código -
+	> git add .
+	> git commit -m "(texto/mensagem/descrição do commit)"
+	> git log  -> mostrar os commit's existentes (versões) no repositório
+	> git status -> mostra o status do arquivo (se foi alterado)
 
 
 Fluxo de Trabalho com Repositório Remoto
-	- Trabalhar no código -
-		> git add .
-		> git commit -m "(texto/mensagem/descrição do commit)"
-		> git push origin main
+
+- Trabalhar no código -
+	> git add .
+	> git commit -m "(texto/mensagem/descrição do commit)"
+	> git push origin main
+
+	> <git clone> - Baixar o projeto para sua máquina
