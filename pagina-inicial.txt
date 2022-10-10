@@ -1,1 +1,4 @@
-Título da página
+Fluxo de trabalho local
+	- Trabalhar no código -
+		> git add .
+		> git commit -m "(texto/mensagem/descrição do commit)"
