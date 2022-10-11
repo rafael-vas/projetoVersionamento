@@ -13,4 +13,4 @@ Fluxo de Trabalho com Repositório Remoto
 	> git commit -m "(texto/mensagem/descrição do commit)"
 	> git push origin main
 
-	> <git clone> - Baixar o projeto para sua máquina
+	> git clone + endereço/link - Baixar o projeto para sua máquina
